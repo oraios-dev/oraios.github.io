@@ -1,0 +1,6 @@
+title: "Benim Blogum"
+description: "Bu benim GitHub Pages ile yaptığım kişisel blog."
+baseurl: "" # Eğer özel bir alan adı kullanıyorsan, buraya yaz.
+url: "https://oraios.github.io"  # GitHub Pages URL'n.
+theme: jekyll-theme-slate  # Jekyll teması. Farklı bir tema kullanmak istersen değiştirebilirsin.
+markdown: kramdown
